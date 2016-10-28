@@ -3,8 +3,6 @@ import static oracle.jrockit.jfr.events.Bits.intValue;
 /**
  * Created by Peaq on 26-10-2016.
  */
-
-// Robert, make cases for 4 to 9?
 public class Greetings {
     public static void main(String[] args) {
         int x = intValue(Math.random() * 10);
