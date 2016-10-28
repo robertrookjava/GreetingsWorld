@@ -3,6 +3,7 @@ import static oracle.jrockit.jfr.events.Bits.intValue;
 /**
  * Created by Peaq on 26-10-2016.
  */
+
 public class Greetings {
     public static void main(String[] args) {
         int x = intValue(Math.random() * 10);
