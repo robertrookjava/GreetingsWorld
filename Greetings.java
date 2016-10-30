@@ -18,10 +18,13 @@ public class Greetings {
             case 3:
                 System.out.println("Tim Burton rocks.");
                 break;
+            case 4:
+                System.out.println("probeersel Robert case 4.");
+                break;
             default:
                 System.out.println("Hope you brought a towel");
                 break;
-                // test robert
+                
         }
     }
 }
